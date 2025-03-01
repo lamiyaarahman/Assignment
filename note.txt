@@ -1,3 +1,0 @@
-Vanilla HTML, 
-CSS, and
-JavaScript 
